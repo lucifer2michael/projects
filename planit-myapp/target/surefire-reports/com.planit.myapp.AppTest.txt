@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.planit.myapp.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.111 s <<< FAILURE! - in com.planit.myapp.AppTest
+com.planit.myapp.AppTest  Time elapsed: 0.109 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\YANG YANG\Pictures\projects\planit-myapp\.\.\resource\chromedriver.exe
+

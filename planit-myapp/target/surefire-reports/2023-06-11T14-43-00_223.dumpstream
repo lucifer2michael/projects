@@ -1,0 +1,12 @@
+# Created at 2023-06-11T14:43:02.089
+Jun 11, 2023 2:43:02 PM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2023-06-11T14:43:02.090
+WARNING: Possible configuration error: method [public void com.planit.myapp.AppTest.test002()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2023-06-11T14:43:02.128
+Jun 11, 2023 2:43:02 PM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2023-06-11T14:43:02.129
+WARNING: Possible configuration error: method [public void com.planit.myapp.AppTest.test002()] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
